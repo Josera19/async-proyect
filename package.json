@@ -1,0 +1,23 @@
+{
+  "name": "async-proyect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josera19/async-proyect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josera19/async-proyect/issues"
+  },
+  "homepage": "https://github.com/Josera19/async-proyect#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
